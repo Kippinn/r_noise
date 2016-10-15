@@ -11,10 +11,10 @@ Contact Vanilla Forums Inc. at support [at] vanillaforums [dot] com
 /**
  * An associative array of information about this application.
  */
-$ThemeInfo['r_noise'] = array(
+$ThemeInfo['R_Noise'] = array(
    'Name' => 'Noise Reworked',
    'Description' => "REWORKED FOR 2.1 and 2.2 by Kube17, original theme from SevMC22. Just a nice vanilla theme.",
-   'Version' => 'R1.0.1',
+   'Version' => 'R1.0.2',
    'Author' => "SevMC22",
    'AuthorEmail' => 'sev@makeitsound.org.org',
    'License'=>"GNU GPL3",
