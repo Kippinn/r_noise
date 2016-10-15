@@ -11,7 +11,7 @@ Contact Vanilla Forums Inc. at support [at] vanillaforums [dot] com
 /**
  * An associative array of information about this application.
  */
-$ThemeInfo['R_Noise'] = array(
+$ThemeInfo['r_noise'] = array(
    'Name' => 'Noise Reworked',
    'Description' => "REWORKED FOR 2.1 and 2.2 by Kube17, original theme from SevMC22. Just a nice vanilla theme.",
    'Version' => 'R1.0',
